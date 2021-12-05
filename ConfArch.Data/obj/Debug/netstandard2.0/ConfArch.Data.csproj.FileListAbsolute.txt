@@ -1,0 +1,10 @@
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.deps.json
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.dll
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.pdb
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.csproj.AssemblyReference.cache
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.AssemblyInfoInputs.cache
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.AssemblyInfo.cs
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.csproj.CoreCompileInputs.cache
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.dll
+C:\Users\ninac\OneDrive\Área de Trabalho\Programming\ConfArchCookieAuth\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.pdb
